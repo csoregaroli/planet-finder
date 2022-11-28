@@ -1,0 +1,24 @@
+{
+  "name": "planet-finder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csoregaroli/planet-finder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/csoregaroli/planet-finder/issues"
+  },
+  "homepage": "https://github.com/csoregaroli/planet-finder#readme",
+  "dependencies": {
+    "csv-parse": "^5.3.2",
+    "nodemon": "^2.0.20"
+  }
+}
